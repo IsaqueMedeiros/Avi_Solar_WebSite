@@ -1,0 +1,143 @@
+/* IPHONE XR */
+@media only screen and  (max-width: 414px) {
+    .container {
+        display: grid;
+        background-color: #333438;
+        grid-gap: 0px;
+        grid-template: 1500px    /  auto;
+        grid-template-areas:
+          "a1 a1 a1 a1 a1 a1"
+          ;
+      }
+      .r1{
+        background-attachment:local;
+
+      }
+    .textH{
+        margin-left: -5%;
+
+    }
+    .motivos_AVI{
+        max-width: 300px;
+        margin-left: 12%;
+
+
+    }
+    .visao{
+        margin-left: -52%;
+    }
+    .visao_texto{
+        max-width: 300px;
+        margin-left: 12%;
+
+    }
+    .missao{
+        margin-left: -50%;
+    }
+    .missao_texto{
+        max-width: 300px;
+        margin-left: 12%;
+    }
+   
+    }
+    /* S20 ULTRA */
+    @media only screen and  (max-width: 412px) {
+     
+    
+    }
+    /* PIXEL 5 */
+      @media only screen and  (max-width: 393px) {
+
+      }
+    
+    /* IPHONE 12 PRO */
+    @media only screen and  (max-width: 390px) {
+ 
+    }
+    
+    /* IPHONE SE */
+      @media only screen and  (max-width: 375px) {
+        .container {
+            display: grid;
+            background-color: #333438;
+            grid-gap: 0px;
+            grid-template: 1500px   / auto;
+            grid-template-areas:
+              "a1 a1 a1 a1 a1 a1"
+              ;
+          }
+        .textH{
+            margin-left: 0%;
+
+        }
+        .motivos_AVI{
+            max-width: 300px;
+            margin-left: 4%;
+
+
+        }
+        .visao{
+            margin-left: -58%;
+        }
+        .visao_texto{
+            max-width: 300px;
+            margin-left: 4%;
+
+        }
+        .missao{
+            margin-left: -58%;
+        }
+        .missao_texto{
+            max-width: 300px;
+            margin-left: 4%;
+        }
+      
+      }
+        @media only screen and  (max-width: 360px) {
+    
+        }
+        /* GALAXY FOLD */
+        @media only screen and  (max-width: 280px) {
+            .container {
+                display: grid;
+                background-color: #333438;
+                grid-gap: 0px;
+                grid-template: 1500px   / auto;
+                grid-template-areas:
+                  "a1 a1 a1 a1 a1 a1"
+                  ;
+              }
+            .textH{
+                font-size: 22px;
+                margin-left: -10%;
+    
+            }
+            .motivos_AVI{
+                font-size: 15px;
+                max-width: 260px;
+                margin-left: 6%;
+    
+    
+            }
+            .visao{
+                margin-left: -58%;
+            }
+            .visao_texto{
+                font-size: 15px;
+                max-width: 250px;
+                margin-left: 6%;
+    
+            }
+            .missao{
+                margin-left: -50%;
+            }
+            .missao_texto{
+                font-size: 15px;
+                max-width: 250px;
+                margin-left: 6%;
+            }
+          }
+        
+    
+    
+      
