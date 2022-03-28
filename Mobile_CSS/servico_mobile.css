@@ -10,7 +10,7 @@ body{
       display: grid;
       background-color: #333438;
       grid-gap:0px ;
-      grid-template: 1000px 500px  / auto auto auto;
+      grid-template: 1100px 500px  / auto auto auto;
       grid-template-areas:
         "a1 a1 a1 a1 a1 a1"
         "a3 a3 a3 a3 a3 a3"
