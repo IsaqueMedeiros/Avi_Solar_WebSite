@@ -3,7 +3,26 @@ body{
   -webkit-overflow-x: hidden;
 
 }
-
+@media only screen and  (max-width: 1920px) {
+ 
+  .textos_deorçamento{
+    text-align: center;
+    margin-top: 220px;
+    margin-left:36%;
+    transition: ease all .5s;
+  
+  }
+}
+@media only screen and  (max-width: 1366px) {
+ 
+  .textos_deorçamento{
+    text-align: center;
+    margin-top: 220px;
+    margin-left:31%;
+    transition: ease all .5s;
+  
+  }
+}
 @media only screen and  (max-width: 1135px) {
   .container {
     display: grid;
