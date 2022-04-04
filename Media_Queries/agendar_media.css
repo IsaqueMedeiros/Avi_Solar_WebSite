@@ -52,6 +52,17 @@
   }
   
   }
+  @media only screen and  (max-width: 1040px) {
+     .container {
+    display: grid;
+    background-color: #333438;
+    grid-template: 800px / 2fr;
+    grid-template-areas:
+      "a1 a1"
+      "a1 a1";
+  }
+}
+
   /* media 2  */
   @media only screen and  (max-width: 980px) {
   
