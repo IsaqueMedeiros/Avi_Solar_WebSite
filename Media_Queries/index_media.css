@@ -25,7 +25,7 @@ body{
     display: grid;
     background-color: #f2f1ec;
     grid-gap: 0px;
-    grid-template: 850px 600px 600px  600px/ auto auto auto auto;
+    grid-template: 900px 600px 600px  600px/ auto auto auto auto;
     grid-template-areas:
       
       "a2 a2 a2 a2 a2"
