@@ -7,6 +7,15 @@
     grid-template-areas:
       "a2 a2 a2 a2 a2";
   }
+   .formCo {
+    margin-top: 250px;
+  
+  }
+  .instruçãoC {
+   
+    margin-top: 250px;
+  
+  }
 }
 @media only screen and  (max-width: 1366px) {
 
@@ -17,6 +26,15 @@
   grid-template: 700px/ auto;
   grid-template-areas:
     "a2 a2 a2 a2 a2";
+}
+  .formCo {
+  margin-top: 85px;
+
+}
+.instruçãoC {
+ 
+  margin-top: 10vh;
+
 }
  }
 
