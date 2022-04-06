@@ -1,0 +1,110 @@
+/* IPHONE XR */
+@media only screen and  (max-width: 414px) {
+    .container {
+        display: grid;
+        background-color: #333438;
+        grid-gap: 0px;
+        grid-template: 1200px    /  auto;
+        grid-template-areas:
+          "a1 a1 a1 a1 a1 a1"
+          ;
+      }
+      .r1{
+        background-attachment:local;
+
+      }
+    .motivos_AVI{
+        max-width: 300px;
+
+
+    }
+
+    .visao_texto{
+        max-width: 300px;
+
+    }
+
+    .missao_texto{
+        max-width: 300px;
+    }
+   
+    }
+    /* S20 ULTRA */
+    @media only screen and  (max-width: 412px) {
+     
+    
+    }
+    /* PIXEL 5 */
+      @media only screen and  (max-width: 393px) {
+
+      }
+    
+    /* IPHONE 12 PRO */
+    @media only screen and  (max-width: 390px) {
+ 
+    }
+    
+    /* IPHONE SE */
+      @media only screen and  (max-width: 375px) {
+        .container {
+            display: grid;
+            background-color: #333438;
+            grid-gap: 0px;
+            grid-template: 1200px   / auto;
+            grid-template-areas:
+              "a1 a1 a1 a1 a1 a1"
+              ;
+          }
+
+        .motivos_AVI{
+            max-width: 300px;
+        }
+  
+        .visao_texto{
+            max-width: 300px;
+        }
+        .missao_texto{
+            max-width: 300px;
+        }
+      
+      }
+        @media only screen and  (max-width: 360px) {
+    
+        }
+        /* GALAXY FOLD */
+        @media only screen and  (max-width: 280px) {
+            .container {
+                display: grid;
+                background-color: #333438;
+                grid-gap: 0px;
+                grid-template: 1200px   / auto;
+                grid-template-areas:
+                  "a1 a1 a1 a1 a1 a1"
+                  ;
+              }
+            .textH{
+                font-size: 22px;
+    
+            }
+            .motivos_AVI{
+                font-size: 15px;
+                max-width: 260px;
+    
+    
+            }
+    
+            .visao_texto{
+                font-size: 15px;
+                max-width: 250px;
+    
+            }
+            .missao_texto{
+                font-size: 15px;
+                max-width: 250px;
+                text-align: justify;
+            }
+          }
+        
+    
+    
+      
